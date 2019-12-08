@@ -34,13 +34,23 @@ body {
     text-align: center;
     margin: margin: auto;
     display: inline-flex;
-  	border: 1px solid LightCyan;
+  	#border: 1px solid LightCyan;
 }
 td {
 	font-family: Arial, sans-serif;
 	font-size: 12pt;
 }
 h1, h2, h3 {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 16pt;
+	margin-top: 0;
+}
+h2, h3 {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 16pt;
+	margin-top: 0;
+}
+h3 {
 	font-family: Verdana, Tahoma, Arial, sans-serif;
 	font-size: 16pt;
 	margin-top: 0;

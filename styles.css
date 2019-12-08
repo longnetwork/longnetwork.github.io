@@ -45,4 +45,15 @@ h1, h2, h3 {
 	font-size: 16pt;
 	margin-top: 0;
 }
+h2, h3 {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 16pt;
+	margin-top: 0;
+	color: LightCyan ;
+}
+h3 {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 16pt;
+	margin-top: 0;
+}
     
