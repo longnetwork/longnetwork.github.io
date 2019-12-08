@@ -1,8 +1,14 @@
 nav a {
-    /*color: AliceBlue ;*/
-    /*color: Lavender ;*/
+    #color: AliceBlue ;
+    #color: Lavender ;
     color: LightCyan ;  
+    #color: DarkSlateGray ; 
+    #color: Gold; 
     font-weight: lighter;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 div p {
 	margin-bottom: 0;

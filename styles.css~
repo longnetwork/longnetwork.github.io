@@ -1,8 +1,12 @@
 nav a {
-    /*color: AliceBlue ;*/
-    /*color: Lavender ;*/
+    #color: AliceBlue ;
+    #color: Lavender ;
     color: LightCyan ;  
+    #color: DarkSlateGray ; 
+    #color: Gold; 
     font-weight: lighter;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 5px;
 }
 div p {
 	margin-bottom: 0;
@@ -49,6 +53,7 @@ h2, h3 {
 	font-family: Verdana, Tahoma, Arial, sans-serif;
 	font-size: 16pt;
 	margin-top: 0;
+	color: LightCyan ;
 }
 h3 {
 	font-family: Verdana, Tahoma, Arial, sans-serif;
