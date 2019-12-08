@@ -1,0 +1,27 @@
+body {
+	background-image: url(img/crypton1.jpg); /* Фоновая картинка */
+    background-size: cover; /* Растягиваем фон */
+    background-repeat: no-repeat; /* Не повторять рисунок */
+    background-position: center top;
+    background-attachment: fixed;
+    
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 14pt;
+	text-align: center;
+    }
+.inline-block {
+    background: rgba(0,0,0,0.4); /* Полупрозрачный фон */
+    padding: 20px; /* Поля вокруг текста */
+    color: white;
+    display: inline-block;
+    text-align: center;
+    }
+td {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+	}
+h1, h2, h3 {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 16pt;
+	}
+    
