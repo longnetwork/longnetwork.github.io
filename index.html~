@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="styles.css"/>
 	<meta name="generator" content="Bluefish 2.2.5" >
 	<meta name="author" content="mint" >
-	<meta name="date" content="2019-12-08T17:58:08+0300" >
+	<meta name="date" content="2019-12-08T21:30:53+0300" >
 	<meta name="copyright" content="">
 	<meta name="keywords" content="blockchain, network, coin,  social, cryptocurrency">
 	<meta name="description" content="Long coin cryptocurrency and Social blockchain network">
@@ -16,11 +16,11 @@
 	<meta http-equiv="expires" content="0">
 </head>
 <nav>
-	 <a href = "#">Идеология</a>
-	 <a href = "#">Блокчейн</a>
-	 <a href = "#">Загрузка</a>
-	 <a href = "#">Сообщество</a>
-	 <a href = "#">Новости</a>
+	 <a href = "#nav1">Идеология</a>
+	 <a href = "#nav2">Блокчейн</a>
+	 <a href = "#nav3">Загрузка</a>
+	 <a href = "#nav4">Сообщество</a>
+	 <a href = "#mav5">Новости</a>
 </nav>
 <body>
 
@@ -39,7 +39,7 @@
 </div>
 <br>
 <div class="block">
-<h1> Идеология </h1>
+<h2> Идеология </h2><br>
 <p><i>Боже, сколько лет я иду, но не сделал и шаг.<br>
 Боже, сколько дней я ищу то, что вечно со мной,<br>
 Сколько лет я жую вместо хлеба сырую любовь,<br>
