@@ -1,8 +1,8 @@
 nav a {
     /*color: AliceBlue ;*/
     /*color: Lavender ;*/
-    color: LightSteelBlue;  
-    font-weight: LightCyan ;
+    color: LightCyan ;  
+    font-weight: lighter;
 }
 div p {
 	margin-bottom: 0;
@@ -33,6 +33,8 @@ body {
     color: Cornsilk;
     text-align: center;
     margin: margin: auto;
+    display: inline-flex;
+  	border: 1px solid LightCyan;
 }
 td {
 	font-family: Arial, sans-serif;

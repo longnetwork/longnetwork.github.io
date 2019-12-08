@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="styles.css"/>
 	<meta name="generator" content="Bluefish 2.2.5" >
 	<meta name="author" content="mint" >
-	<meta name="date" content="2019-12-08T16:58:43+0300" >
+	<meta name="date" content="2019-12-08T17:56:55+0300" >
 	<meta name="copyright" content="">
 	<meta name="keywords" content="blockchain, network, coin,  social, cryptocurrency">
 	<meta name="description" content="Long coin cryptocurrency and Social blockchain network">
@@ -37,8 +37,9 @@
    <h1>LONG Network - Не сметь ухмыляться!</h1>
    <p><i> Можно на леща нарваться! </i></p>
 </div>
+<br>
 <div class="block">
-   <h1> Идеология </h1>
+<span>   <h1> Идеология </h1> </span>
 <i>Боже, сколько лет я иду, но не сделал и шаг.<br>
 Боже, сколько дней я ищу то, что вечно со мной,<br>
 Сколько лет я жую вместо хлеба сырую любовь,<br>
@@ -56,7 +57,7 @@
 К сволочи доверчива,<br>
 Ну, а к нам - тра-ля-ля-ля...<br>
 Боже,<br>
-сколько правды в глазах государственных шлюх !v
+сколько правды в глазах государственных шлюх !<br>
 Боже,<br>
 сколько веры в руках отставных палачей !<br>
 Ты не дай им опять закатать рукава,<br>

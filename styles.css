@@ -33,6 +33,8 @@ body {
     color: Cornsilk;
     text-align: center;
     margin: margin: auto;
+    display: inline-flex;
+  	#border: 1px solid LightCyan;
 }
 td {
 	font-family: Arial, sans-serif;
