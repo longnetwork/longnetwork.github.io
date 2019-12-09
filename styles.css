@@ -6,6 +6,7 @@ a {
     /* color: DarkSlateGray ; */ 
     /* color: Gold; */ 
 }
+a:hover { color: YellowGreen; }
 nav {
 /*	position: fixed;
   	top: 0;

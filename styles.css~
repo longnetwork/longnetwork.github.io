@@ -56,7 +56,7 @@ body {
 }
 .main-block p {
 	text-align:justify;
-	text-indent: 20px;
+	/*text-indent: 20px;*/
 }
 td {
 	font-family: Arial, sans-serif;
