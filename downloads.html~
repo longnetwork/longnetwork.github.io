@@ -7,7 +7,7 @@
 <body>
 <h2> Загрузка <br>
 <a href = "index.html" >К началу</a><br> 
-</h2><br><p><i>
+</h2><br><p><i><br><br>
 	<a href="https://drive.google.com/open?id=1LELS-GMZCsTf0454qOByeEvGZdb74Zte" target="_blank">Windows version 0.6b (binaries)</a><br>
 	<a href="https://drive.google.com/open?id=1N84tMhZ4cuZCwsPeZQxF7wfMu2jZURrc" target="_blank">Linux version 0.6b (sources)</a><br>
 	<a href="https://github.com/longnetwork/LONGNETWORK" target="_blank">GitHub Full Sources (with cross build tools)</a><br>
@@ -20,6 +20,6 @@
 	 позволяющие восстановить ваши монеты и сообщения всегда и везде на любых версиях программного обеспечения!<br>
 	 Самый надежный способ сделать резервную копию кошелька — это через меню клиента, выбрав путь для сохранения и введя имя<br>
 	 резервной копии кошелька «wallet.dat». В последующем его всегда можно снова импортировать опять же — через  меню клиента longcoin-qt.exe.<br>
- </i></p>
+</i></p>
 </body>
 </html>

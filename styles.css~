@@ -1,4 +1,5 @@
-a{
+{ display: block; }
+a {
     /* color: AliceBlue ; */
     /* color: Lavender ; */
     color: LightCyan ;  
@@ -52,6 +53,10 @@ body {
     margin: auto;
     display: inline-flex;
   	/*border: 1px solid LightCyan;*/
+}
+.main-block p {
+	text-align:justify;
+	text-indent: 20px;
 }
 td {
 	font-family: Arial, sans-serif;

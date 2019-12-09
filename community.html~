@@ -7,11 +7,11 @@
 <body>
 <h2> Сообщество <br>
 <a href = "index.html" >К началу</a><br> 
-</h2><br><p><i>
+</h2><br><p><i><br><br>
 	<a href="https://discord.gg/JjbU47K" target="_blank">Дискорд (основное)</a><br>
 	<a href="https://bitcointalk.org/index.php?topic=5158823.0" target="_blank">Тальк (традиционное)</a><br>
 	<br>
-	<b>Наши сетевые сервисы:</b><br>
+	<b>&emsp; Наши сетевые сервисы:</b><br>
 	<br>
 	<a href="https://trade.crypton.cf" target="_blank">Биржа</a><br>
 	<a href="http://explorer.crypton.cf/" target="_blank">Блок-эксплорер</a><br>
