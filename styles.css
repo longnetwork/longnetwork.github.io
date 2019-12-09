@@ -1,9 +1,14 @@
+nav {
+/*	position: fixed;
+  	top: 0;
+  	width: 100%; */
+}
 nav a {
-    #color: AliceBlue ;
-    #color: Lavender ;
+    /* color: AliceBlue ; */
+    /* color: Lavender ; */
     color: LightCyan ;  
-    #color: DarkSlateGray ; 
-    #color: Gold; 
+    /* color: DarkSlateGray ; */ 
+    /* color: Gold; */ 
     font-weight: lighter;
     background: rgba(0, 0, 0, 0.4);
     padding: 5px;
@@ -14,7 +19,7 @@ nav a {
 nav a:visited {  }
 nav a:hover { background: rgba(0, 0, 0, 0.6); color: YellowGreen; border: 1px solid YellowGreen; }
 nav a:active {  }
-div p {
+p {
 	margin-bottom: 0;
 }
 body {
@@ -29,7 +34,7 @@ body {
 	font-size: 14pt;
 	text-align: center;
 }
-.inline-block {
+.top-blocks {
     background: rgba(0,0,0,0.4); /* Полупрозрачный фон */
     padding: 20px; /* Поля вокруг текста */
     color: Cornsilk;
@@ -37,14 +42,14 @@ body {
     text-align: center;
     margin: 20px;
 }
-.block {
+.main-block {
     background: rgba(0,0,0,0.4); /* Полупрозрачный фон */
     padding: 20px; /* Поля вокруг текста */
     color: Cornsilk;
     text-align: center;
     margin: margin: auto;
     display: inline-flex;
-  	#border: 1px solid LightCyan;
+  	/*border: 1px solid LightCyan;*/
 }
 td {
 	font-family: Arial, sans-serif;

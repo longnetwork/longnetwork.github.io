@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="styles.css"/>
 	<meta name="generator" content="Bluefish 2.2.5" >
 	<meta name="author" content="mint" >
-	<meta name="date" content="2019-12-08T21:30:53+0300" >
+	<meta name="date" content="2019-12-09T03:31:14+0300" >
 	<meta name="copyright" content="">
 	<meta name="keywords" content="blockchain, network, coin,  social, cryptocurrency">
 	<meta name="description" content="Long coin cryptocurrency and Social blockchain network">
@@ -15,74 +15,43 @@
 	<meta http-equiv="content-style-type" content="text/css">
 	<meta http-equiv="expires" content="0">
 </head>
-<nav>
-	 <a href = "#nav1">Идеология</a>
-	 <a href = "#nav2">Блокчейн</a>
-	 <a href = "#nav3">Загрузка</a>
-	 <a href = "#nav4">Сообщество</a>
-	 <a href = "#mav5">Новости</a>
-</nav>
+<script type="text/javascript">
+function loadNavLink (file) {
+    fetch(file /*, options */)
+    .then((response) => response.text())
+    .then((html) => {
+        document.getElementById("main").innerHTML = html;
+    })
+    .catch((error) => {
+        console.warn(error);
+    });
+}
+</script>
+<header>
+	<nav>
+		 <a href = "javascript:loadNavLink('ideology.html')">Идеология</a>
+		 <a href = "javascript:loadNavLink('blockchain.html')">Блокчейн</a>
+		 <a href = "javascript:loadNavLink('downloads.html')">Загрузка</a>
+		 <a href = "javascript:loadNavLink('community.html')">Сообщество</a>
+		 <a href = "javascript:loadNavLink('news.html')">Новости</a>
+	</nav>
+</header>
 <body>
-
-<div class="inline-block">
-   <h1>LONG Network - Ахренеть просто!</h1>
-   <p><i> Только для народа! </i></p>
-</div>
-<div  class="inline-block">
-   <h1>LONG Network - Защеканцам здесь не место!</h1>
-   <p><i> Здесь Свобода! </i></p>
-</div>
+	<div class="top-blocks">
+	   <h1>LONG Network - Ахренеть просто!</h1>
+	   <p><i> Только для народа! </i></p>
+	</div>
+	<div  class="top-blocks">
+	   <h1>LONG Network - Защеканцам здесь не место!</h1>
+	   <p><i> Здесь Свобода! </i></p>
+	</div>
+	<div  class="top-blocks">
+	   <h1>LONG Network - Не сметь ухмыляться!</h1>
+	   <p><i> Можно на леща нарваться! </i></p>
+	</div>
+	<br>
+	<div class="main-block" id="main">
+	</div>
 </body>
-<div  class="inline-block">
-   <h1>LONG Network - Не сметь ухмыляться!</h1>
-   <p><i> Можно на леща нарваться! </i></p>
-</div>
-<br>
-<div class="block">
-<h2> Идеология </h2><br>
-<p><i>Боже, сколько лет я иду, но не сделал и шаг.<br>
-Боже, сколько дней я ищу то, что вечно со мной,<br>
-Сколько лет я жую вместо хлеба сырую любовь,<br>
-Сколько жизни в висок мне плюет<br>
-Вороненым стволом долгожданная да-a-аль !<br>
-Черные фары у соседних ворот,<br>
-Люки, наручники, порванный рот.<br>
-Сколько раз, покатившись, моя голова<br>
-С переполненной плахи летела сюда, где<br>
-Родина.<br>
-Еду я на родину,<br>
-Пусть кричат - уродина,<br>
-А она нам нравится,<br>
-Хоть и не красавица,<br>
-К сволочи доверчива,<br>
-Ну, а к нам - тра-ля-ля-ля...<br>
-Боже,<br>
-сколько правды в глазах государственных шлюх !<br>
-Боже,<br>
-сколько веры в руках отставных палачей !<br>
-Ты не дай им опять закатать рукава,<br>
-Ты не дай им опять закатать рукава<br>
-Суетливых ночей.<br>
-Черные фары у соседних ворот,<br>
-Люки, наручники, порванный рот.<br>
-Сколько раз, покатившись, моя голова<br>
-С переполненной плахи летела сюда, где<br>
-Родина. Еду я на родину,<br>
-Пусть кричат - уродина,<br>
-А она нам нравится,<br>
-Спящая красавица,<br>
-К сволочи доверчива,<br>
-Ну, а к нам...<br>
-Из-под черных рубах рвется красный петух,<br>
-Из-под добрых царей льется в рты мармелад.<br>
-Никогда этот мир не вмещал в себе двух<br>
-Был нам богом отец, ну а чертом<br>
-Родина. Еду я на родину,<br>
-Пусть кричат - уродина,<br>
-А она нам нравится,<br>
-Спящая красавица,<br>
-К сволочи доверчива,<br>
-Ну, а к нам  </i></p>
-</div>
-</body>
+	<footer></footer>
 </html>
