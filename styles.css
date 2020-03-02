@@ -91,4 +91,14 @@ h3 {
 	font-size: 16pt;
 	margin-top: 0;
 }
+button {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+  color: DarkCyan;
+  background-color: Cornsilk;
+  border-radius: 8px;
+  cursor: pointer;
+  opacity: 1.0;
+}
     
