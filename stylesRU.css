@@ -1,0 +1,13 @@
+@import "styles.css";
+
+nav:lang(ru) { }
+nav:lang(en) { display: none; }
+
+div:lang(ru) { }
+div:lang(en) { display: none; }
+
+h2:lang(ru) { }
+h2:lang(en) { display: none; }
+
+span:lang(ru) { }
+span:lang(en) { display: none; }

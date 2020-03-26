@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>Long coin cryptocurrency and Social blockchain network</title>
-	<link rel="stylesheet" type="text/css" href="styles.css"/>
+	<link rel="stylesheet" type="text/css" href="stylesEN.css"/>
 	<meta name="generator" content="Bluefish 2.2.5" >
 	<meta name="author" content="mint" >
-	<meta name="date" content="2020-03-02T02:59:41+0300" >
+	<meta name="date" content="2020-03-26T21:47:12+0300" >
 	<meta name="copyright" content="">
 	<meta name="keywords" content="blockchain, network, coin,  social, cryptocurrency">
 	<meta name="description" content="Long coin cryptocurrency and Social blockchain network">
@@ -15,7 +15,7 @@
 	<meta http-equiv="content-style-type" content="text/css">
 	<meta http-equiv="expires" content="0">
 	
-<script type="text/javascript">
+<script type="text/javascript">					
 	function load_href (obj, targetId) {
 	    fetch(obj.href /*, options */)
 	    .then((response) => response.text())
@@ -26,33 +26,71 @@
 	        console.warn(error);
 	    });
 	}
+	function switch_style_lang() {
+		var link = document.getElementsByTagName('link')[0];
+		if(link.href.endsWith('stylesRU.css')) 		link.href='stylesEN.css';
+		else if(link.href.endsWith('stylesEN.css')) link.href='stylesRU.css';	
+	}
+	function set_style_lang() {
+		var lang = window.navigator.language;
+		var link = document.getElementsByTagName('link')[0];
+		if(lang.endsWith('RU')) 		link.href='stylesRU.css';
+		else if(lang.endsWith('EN'))	link.href='stylesEN.css';
+	}
 </script>	
 	
 </head>
 
 <header>
-	<nav>
-		 <a href = "ideology.html" target="_blank" onclick="load_href(this,'main'); return false" >Идеология</a>
-		 <a href = "blockchain.html" target="_blank" onclick="load_href(this,'main'); return false" >Блокчейн</a>
-		 <a href = "downloads.html" target="_blank" onclick="load_href(this,'main'); return false" >Загрузка</a>
-		 <a href = "donat.html" target="_blank" onclick="load_href(this,'main'); return false" >Поддержка</a>
-		 <a href = "community.html" target="_blank" onclick="load_href(this,'main'); return false" >Сообщество</a>
-		 <a href = "news.html" target="_blank" onclick="load_href(this,'main'); return false" >Новости</a>
+	<nav lang="en">
+		 <a href = "ideology.html" target="_blank" onclick="load_href(this,'main'); return false;" >Ideology</a>
+		 <a href = "blockchain.html" target="_blank" onclick="load_href(this,'main'); return false;" >Blockchain</a>
+		 <a href = "downloads.html" target="_blank" onclick="load_href(this,'main'); return false;" >Downloads</a>
+		 <a href = "donat.html" target="_blank" onclick="load_href(this,'main'); return false;" >Donat</a>
+		 <a href = "community.html" target="_blank" onclick="load_href(this,'main'); return false;" >Community</a>
+		 <a href = "news.html" target="_blank" onclick="load_href(this,'main'); return false;" >News</a>
+		 
+		 <a href = "" target="_blank" onclick="switch_style_lang(); return false;" >RU</a>		 
+	</nav>	
+	<nav lang="ru">
+		 <a href = "ideology.html" target="_blank" onclick="load_href(this,'main'); return false;" >Идеология</a>
+		 <a href = "blockchain.html" target="_blank" onclick="load_href(this,'main'); return false;" >Блокчейн</a>
+		 <a href = "downloads.html" target="_blank" onclick="load_href(this,'main'); return false;" >Загрузка</a>
+		 <a href = "donat.html" target="_blank" onclick="load_href(this,'main'); return false;" >Донат</a>
+		 <a href = "community.html" target="_blank" onclick="load_href(this,'main'); return false;" >Сообщество</a>
+		 <a href = "news.html" target="_blank" onclick="load_href(this,'main'); return false;" >Новости</a>
+		 
+		 <a href = "" target="_blank" onclick="switch_style_lang(); return false;" >EN</a>
 	</nav>
 </header>
-<body>
-	<div class="top-blocks">
+<body onload="set_style_lang();">
+	<div lang="en" class="top-blocks">
+	   <h1>LONG Network - Oh, fuck, this sucks!</h1>
+	   <p><i> it's a public good! </i></p>
+	</div>
+	<div lang="ru" class="top-blocks">
 	   <h1>LONG Network - Ахренеть просто!</h1>
 	   <p><i> Только для народа! </i></p>
 	</div>
-	<div  class="top-blocks">
-	   <h1>LONG Network - Защеканцам здесь не место!</h1>
+
+	<div lang="en" class="top-blocks">
+	   <h1>LONG Network - Scoundrels do not belong here!</h1>
+	   <p><i> Here is Freedom! </i></p>
+	</div>	
+	<div lang="ru" class="top-blocks">
+	   <h1>LONG Network - Негодяям здесь не место!</h1>
 	   <p><i> Здесь Свобода! </i></p>
 	</div>
-	<div  class="top-blocks">
+
+	<div lang="en" class="top-blocks">
+	   <h1>LONG Network - Do not dare to grin!</h1>
+	   <p><i> You can run into a slap in the face! </i></p>
+	</div>		
+	<div lang="ru" class="top-blocks">
 	   <h1>LONG Network - Не сметь ухмыляться!</h1>
 	   <p><i> Можно на леща нарваться! </i></p>
 	</div>
+	
 	<br>
 	<div class="main-block" id="main">
 		<video width="840" height="472" controls="controls" preload="metadata" poster="video/LongCoinPromo5.png">
