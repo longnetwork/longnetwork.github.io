@@ -6,24 +6,27 @@
 </head>
 <body onload=""> <script type="text/javascript"> set_style_lang(); </script>
 
-<h2 lang="en"> Community <br>
+<h2 lang="en"> News <br>
 <a href = "index.html" >To the beginning</a> <br>
 </h2>
-<h2 lang="ru"> Сообщество <br>
+<h2 lang="ru"> Новости <br>
 <a href = "index.html" >К началу</a><br> 
 </h2>
 
 <br><p><i><br><br>
+
+	<span lang="en">&emsp; The latest news here:<br></span>
+	<span lang="ru">&emsp; Самые свежие новости здесь:<br></span>
+	 
 	<a href="https://discord.gg/JjbU47K" target="_blank">Discord</a><br>
-	<a href="https://t.me/longcoinofficial" target="_blank">Telegram</a><br>
 	<a href="https://twitter.com/PepperSteep" target="_blank">Twitter</a><br>
 	<a href="https://vk.com/longnetwork" target="_blank">VK Group</a><br>
-	<a href="https://bitcointalk.org/index.php?topic=5235729" target="_blank">BitcoinTalk</a><br>
-	<a href="https://forum.bits.media/index.php?/topic/163664" target="_blank">BitsMedia</a><br>
 	
-	<br>	
+	<span lang="en">Soon we are leaving for the blockchain...<br></span> 
+	<span lang="ru">Скоро уходим в блокчейн...<br></span>
+	<br>
 	<span lang="en"><b>Our network services:</b><br></span>
-	<span lang="ru"><b>Наши сетевые сервисы:</b><br></span>
+	<span lang="ru"><b>Наши сетевые сервисы:</b><br></span>	
 	<br>
 	<a href="https://trade.crypton.cf" target="_blank">Exchange 1</a><br>
 	<a href="https://www.zooomex.com/signup?refuid=IDE2A4F04A38" target="_blank">Exchange 2</a><br>
@@ -33,6 +36,8 @@
 	<a href="https://www.ex4ange.org/" target="_blank">Exchange 6</a><br>
 	<a href="http://longchain.crypton.cf/" target="_blank">Explorer </a><br>
 	<a href="http://longpool.crypton.cf/" target="_blank">Mining pool </a><br>
- </i></p>
+</i></p>
+
+
 </body>
 </html>
