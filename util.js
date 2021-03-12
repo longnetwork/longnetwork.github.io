@@ -11,14 +11,18 @@ function load_href (obj, targetId) {
 	    });
 }
 function switch_style_lang() {
-	var link = document.getElementsByTagName('link')[0];
+	let link = document.getElementsByTagName('link')[0];
 	if(link.href.endsWith('stylesRU.css')) 		link.href='stylesEN.css';
 	else if(link.href.endsWith('stylesEN.css')) link.href='stylesRU.css';	
 }
 function set_style_lang() {
-	var lang = window.navigator.language;
-	var link = document.getElementsByTagName('link')[0];
+	let lang = window.navigator.language;
+	let link = document.getElementsByTagName('link')[0];
 	if(lang.endsWith('RU')) 		link.href='stylesRU.css';
 	else if(lang.endsWith('EN'))	link.href='stylesEN.css';
+}
+
+function check_outer(targetId) {
+    return document.getElementById(targetId)!=null;
 }
 

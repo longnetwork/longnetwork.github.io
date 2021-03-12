@@ -4,7 +4,17 @@
 <meta charset="utf-8" >
 <title></title>
 </head>
-<body onload=""> <script type="text/javascript"> set_style_lang(); </script>
+<body onload=""> 
+<script type="text/javascript"> 
+    if(typeof set_style_lang === 'undefined'){ // Прямое обращение к внутренней страници
+        let meta=document.getElementsByTagName('meta')[0];
+        meta.setAttribute('url',"index.html"); meta.setAttribute('content',"0"); meta.setAttribute('http-equiv',"refresh");
+        // window.location.href = "http://example.com";
+    }
+    else {
+        set_style_lang(); 
+    }
+</script>
 
 <h2 lang="en"> Ideology <br>
 <a href = "index.html" >To the beginning</a> <br>
