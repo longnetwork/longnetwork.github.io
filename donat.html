@@ -4,7 +4,16 @@
 <meta charset="utf-8" >
 <title></title>
 </head>
-<body onload=""> <script type="text/javascript"> set_style_lang(); </script>
+<body onload="">
+
+<script type="text/javascript"> 
+    if(typeof set_style_lang === 'undefined'){ // Прямое обращение к внутренней страници
+        window.location.href = "index.html#donat";
+    }
+    else {
+        set_style_lang(); 
+    }
+</script>
 
 <h2 lang="en"> Donat <br>
 <a href = "index.html" >To the beginning</a> <br>

@@ -22,7 +22,7 @@
 	
 
 <script type="text/javascript" src="util.js"></script>
-	
+
 </head>
 
 <header>
@@ -77,9 +77,21 @@
 	
 	<br>
 	<div class="main-block" id="main">
-		<video width="840" height="472" controls="controls" preload="metadata" poster="video/LongCoinPromo5.png">
-			 <source src = "video/LongCoinPromo5.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-		</video>
+        <script>
+            let suffix= (document.location.toString().split('#',2)[1]) || '' ;
+
+            if (suffix) { 
+                load_href({href: suffix + ".html" },'main');
+            }
+            else { // default content
+                load_html(`
+		        <video width="840" height="472" controls="controls" preload="metadata" poster="video/LongCoinPromo5.png">
+			         <source src = "video/LongCoinPromo5.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+		        </video>
+                          `                
+                ,'main');
+            }            
+        </script>    
 	</div>
 </body>
 	<footer></footer>

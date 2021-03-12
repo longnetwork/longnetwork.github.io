@@ -1,14 +1,17 @@
 'use strict'
 
 function load_href (obj, targetId) {
-	    fetch(obj.href, {mode: 'no-cors'})
-	    .then((response) => response.text())
-	    .then((html) => {
-	        document.getElementById(targetId).innerHTML = html;
-	    })
-	    .catch((error) => {
-	        console.warn(error);
-	    });
+    fetch(obj.href, {mode: 'no-cors'})
+    .then((response) => response.text())
+    .then((html) => {
+        document.getElementById(targetId).innerHTML = html;
+    })
+    .catch((error) => {
+        console.warn(error);
+    });
+}
+function load_html (html, targetId) {
+    document.getElementById(targetId).innerHTML = html;
 }
 function switch_style_lang() {
 	let link = document.getElementsByTagName('link')[0];
@@ -22,7 +25,4 @@ function set_style_lang() {
 	else if(lang.endsWith('EN'))	link.href='stylesEN.css';
 }
 
-function check_outer(targetId) {
-    return document.getElementById(targetId)!=null;
-}
 
