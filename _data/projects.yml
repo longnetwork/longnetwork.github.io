@@ -8,7 +8,7 @@
   link: https://github.com/longnetwork/longcoin-java
   description: Graphical Shell for long network core (cold wallet with social network and marketplace features) Does not depend on external servers! Everything you place in the blockchain stays there forever!
 
-- name: wrapped LONG Token
+- name: wrapped LONG
   image: /assets/images/longcoin-wlong.png
   link: https://github.com/longnetwork/wLONG
   description: Smart-contract of a BEP-20 token obtained by burning a LONG COIN to an address without a private key. TotalSuppy is created by everyone at their own discretion by burning LONG coin
