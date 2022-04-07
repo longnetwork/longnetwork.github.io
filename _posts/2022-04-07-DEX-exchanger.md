@@ -20,10 +20,9 @@ These financial instruments are no longer suitable for anything! Even for bitcoi
 The **LONG team** is committed to complete decentralization and independence. As part of this, a small step towards **DEX** has been made. 
 Our goal is to use an unmoderated, admin independent, and eternal smart contract platform to provide access to **LONG** to those who cannot mine it. 
 We want to pay special attention to the fact that, unlike regular tokens, the initial price of the wrapped LONG (**wLONG**) is already backed by electricity costs!
->In details: [https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
-**DEX**: [wLONG DEX](https://dex.guru/token/0x8e54a1a32dfd86eb5c6f5334351502e1bff3ce49-bsc)
 
-<br>
+>**DEX**: [wLONG DEX](https://dex.guru/token/0x8e54a1a32dfd86eb5c6f5334351502e1bff3ce49-bsc)<br>
+>**Guides**: [https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
 
 ---
 <img src="/assets/images/telegram32x32.png" align="middle">&nbsp;&nbsp;[LONG team chat](http://t.me/longteam)
