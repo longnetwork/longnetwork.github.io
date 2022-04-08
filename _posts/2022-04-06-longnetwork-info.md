@@ -31,7 +31,7 @@ Everything that works with Bitcoin also works with **LONG Coin**.
 - The network allows you to fix and set the priority (in time) of inventions, formulas, evidence, other works, with the ability to confirm ownership of the transaction by signing your **LONG** address;
 - The network allows voting by sending text messages to a given voting address or organizing provably fair lotteries;
 - Communication options: public chats, private encrypted chats, p2p chats, news channels, marketplaces for sales, both public and private. **By default, the wallet has a global PUBLIC chat for news and communication**;
-- The network allows you to perpetuate information. Like everything that enters the blockchain, it remains there forever and cannot be canceled or moderated;
+- The network allows you to perpetuate information. Like everything that enters the blockchain, it remains there forever and cannot be canceled or moderated (e.g. personal diary);
 
 
 **Attention!** All of the above has already been implemented and works in the desktop version of the wallet and nodes! You can take a look at this:
