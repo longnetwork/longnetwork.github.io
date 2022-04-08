@@ -45,7 +45,8 @@ Everything that works with Bitcoin also works with **LONG Coin**.
 We strive for complete decentralization and independence from financial centers. Our task is to create not a financial speculative instrument, but a coin that has the function of money - 
 that is, capable of direct exchange for goods and services. A step in this direction is the introduction of **LONG** in the DEX exchange in the form of a BEP-20 **wLONG** 
 wrapped in a token that cannot be delisted. You can take a look at this:<br>
-[https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
+[https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)\
+[https://longnetwork.github.io/blog](https://longnetwork.github.io/blog)
 
 
 *Our immediate goal is to implement what is created in the desktop version of the wallet on mobile platforms, while not abandoning decentralization - 
