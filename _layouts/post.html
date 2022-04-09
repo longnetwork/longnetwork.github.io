@@ -55,9 +55,17 @@ layout: compress
         <div class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">
           <p>{{ content }}</p>
         </div>
+
+
+
         {% unless site.disqus-shortname == "" %}
         <div class="disqus-comments" id="disqus_thread"></div>
         {% endunless %}
+
+        {% unless site.telegram_username == "" %}
+        <script async src="https://telegram.org/js/telegram-widget.js?18" data-telegram-discussion="{{site.telegram_username}}" data-comments-limit="5"></script>
+        {% endunless %}
+
       </div>
     </div>
   </section>
@@ -73,13 +81,14 @@ layout: compress
   this.page.identifier = PAGE_IDENTIFIER; Replace PAGE_IDENTIFIER with your page's unique identifier variable
   };
   */
-  (function () { /* DON'T EDIT BELOW THIS LINE */
+
+  /*(function () { // DON'T EDIT BELOW THIS LINE
     var d = document,
       s = d.createElement('script');
     s.src = 'https://{{site.disqus-shortname}}.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
-  })();
+  })();*/
 </script>
 
 </html>
