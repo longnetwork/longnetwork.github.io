@@ -63,7 +63,9 @@ layout: compress
         {% endunless %}
 
         {% unless site.telegram_username == "" %}
+        <div>
         <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="{{site.telegram_comments_id}}" data-limit="5"></script>
+        </div>
         {% endunless %}
 
       </div>
