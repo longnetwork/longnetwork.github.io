@@ -34,7 +34,7 @@ Everything that works with Bitcoin also works with **LONG Coin**.
 - The network allows you to perpetuate information. Like everything that enters the blockchain, it remains there forever and cannot be canceled or moderated (e.g. personal diary);
 
 
-**Attention!** All of the above has already been implemented and works in the desktop version of the wallet and nodes! You can take a look at this:
+**Attention!** All of the above has already been implemented and works in the desktop version of the wallet and nodes! You can take a look at this:<br>
 [https://longnetwork.github.io/projects](https://longnetwork.github.io/projects)\
 [https://github.com/longnetwork](https://github.com/longnetwork)
 
