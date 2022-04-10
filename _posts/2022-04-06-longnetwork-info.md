@@ -49,8 +49,10 @@ wrapped in a token that cannot be delisted. You can take a look at this:<br>
 [https://longnetwork.github.io/blog](https://longnetwork.github.io/blog)
 
 
-*Our immediate goal is to implement what is created in the desktop version of the wallet on mobile platforms, while not abandoning decentralization - 
-the mobile wallet should be a full-fledged light node that participates in network consensus and confirms transactions and is also visible to all other nodes.*
+**_Our immediate goal is to implement what is created in the desktop version of the wallet on mobile platforms, while not abandoning decentralization - 
+the mobile wallet should be a full-fledged light node that participates in network consensus and confirms transactions and is also visible to all other nodes._**<br>
+[https://longnetwork.github.io/crowdfunding](https://longnetwork.github.io/crowdfunding)
+
 
 ---
 <img src="/assets/images/telegram32x32.png" align="middle">&nbsp;&nbsp;[LONG team chat](http://t.me/longteam)
