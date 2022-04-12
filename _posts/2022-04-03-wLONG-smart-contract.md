@@ -17,7 +17,7 @@ tags:
 **wLONG** provides mechanisms to exchange BNB and other tokens via the **uniswap** protocol, as well as 
 to profit from creating liquidity on decentralized exchanges and now wLONG is available in token wallets
 <br>
-How-To: [https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
+**How-To**: [https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
 
 ---
 <img src="/assets/images/telegram32x32.png" align="middle">&nbsp;&nbsp;[LONG team chat](http://t.me/longteam)
