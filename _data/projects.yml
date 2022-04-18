@@ -13,3 +13,9 @@
   link: https://github.com/longnetwork/wLONG
   description: Smart-contract of a BEP-20 token obtained by burning a LONG COIN to an address without a private key. TotalSuppy is created by everyone at their own discretion by burning LONG coin
 
+- name: Telegram LONG Wallet
+  image: /assets/images/longcoin-tbot.png
+  link: https://github.com/longnetwork/telegramWallet
+  description: Personal telegram wallet for native LONG that works without a centralized server. Everyone installs the wallet in their personal Google account and interacts with it individually and privately.
+
+
