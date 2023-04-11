@@ -22,7 +22,7 @@ Our goal is to use an unmoderated, admin independent, and eternal smart contract
 We want to pay special attention to the fact that, unlike regular tokens, the initial price of the wrapped LONG (**wLONG**) is already backed by electricity costs!
 
 >**DEX**: [wLONG DEX](https://charts.bogged.finance/?c=bsc&t=0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49)<br>
->**DEX**: [wLONG DEX](https://pancakeswap.finance/info/pool/0xcd9ca47344c1558978a78d61549b0dc311fb8a29)<br>
+>**DEX**: [wLONG DEX](https://pancakeswap.finance/v2/pair/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49/BNB)<br>
 >**Guides**: [https://github.com/longnetwork/wLONG](https://github.com/longnetwork/wLONG)
 
 ---
